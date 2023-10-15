@@ -1,6 +1,6 @@
 # Welcome to Project NyroneRP! 🚀
 
-[![Discord](https://img.shields.io/discord/1234567890?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/yourdiscordinvite)
+[![Discord](https://img.shields.io/discord/1234567890?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.nyrone.net)
 [![FiveM](https://img.shields.io/badge/FiveM-Server-informational)](https://cfx.re/join/yyyzvm)
 [![Minecraft](https://img.shields.io/badge/Minecraft-Server-green)](https://minecraft.net)
 [![Rust](https://img.shields.io/badge/Rust-Server-red)](https://rust-lang.org)
@@ -16,13 +16,13 @@ We're not just about FiveM! Soon, we'll be launching exciting servers for Minecr
 ## Connect to Our FiveM Server 🚗
 
 - Game Code: `connect yyyzvm`
-- Server Connect URL: [cfx.re/join/yyyzvm](https://cfx.re/join/yyyzvm)
+- Server Connect URL: [fivem.nyrone.net](https://cfx.re/join/yyyzvm)
 
 ## Discord Community 🗣️
 
 Join our vibrant community on Discord! We discuss everything from server updates to gaming strategies. Feel free to ask any questions you have.
 
-[![Join Discord](https://img.shields.io/discord/1234567890?color=7289DA&label=Join%20Discord&logo=discord&logoColor=white)](https://discord.gg/yourdiscordinvite)
+[![Join Discord](https://img.shields.io/discord/1234567890?color=7289DA&label=Join%20Discord&logo=discord&logoColor=white)](https://discord.nyrone.net)
 
 ## Contributing 🤝
 
